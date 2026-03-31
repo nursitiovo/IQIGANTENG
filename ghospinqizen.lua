@@ -17,7 +17,7 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"Huruharaxyz", "Lstar176"},
+        ["Whitelist Username"] = {"Huruharaxyz", "Lstar176","Lyv_oo"},
         ["Category Fish"] = {
             "Secret",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
@@ -153,7 +153,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Esoteric Depths"] = {"Grass Rod", "Midnight Rod","Steampunk Rod"},
             ["Sisyphus Statue"] = {"Astral Rod"},
-            ["Treasure Room"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod"},
+            ["Treasure Room"] = {"Element Rod", "Ghostfinn Rod", "Ares Rod", "Diamond Rod"},
         },
         ["Endgame"] = "",
     },
